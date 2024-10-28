@@ -4,3 +4,5 @@ postgres:12
 golang:1.23rc2-alpine
 golang:1.19
 openjdk:8
+python:3.9-slim
+python:3.9
